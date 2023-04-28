@@ -1,5 +1,8 @@
 # HR-Data-Analysis
 
+![image](https://user-images.githubusercontent.com/110315536/235164908-75792981-29f4-4623-bb0a-3364d3ad51fa.png)
+
+
 **Introduction:**
 
 The purpose of this report is to analyze the attrition data for an HR department. The dataset includes information on employees' demographics, job roles, education, and work-related factors. The objective of this analysis is to identify the factors that contribute to employee attrition and provide recommendations to reduce it.
